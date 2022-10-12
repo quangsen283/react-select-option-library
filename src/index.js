@@ -10,6 +10,7 @@ export const ExampleComponent = ({ text, tata }) => {
       <div className={styles.test}>Example Component: {text}</div>
       <Kaka />
       <div>Toi muon test thu xem sao</div>
+      <div>dong thu 2</div>
     </div>
   )
 }
