@@ -13,6 +13,7 @@ export const ExampleComponent = ({ text, tata }) => {
       <div>dong thu 2</div>
       ------------------------------
       <div>tinh yeu thu 1</div>
+      <div>tinh yeu thu 2</div>
     </div>
   )
 }
