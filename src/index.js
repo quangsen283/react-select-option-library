@@ -11,6 +11,7 @@ export const ExampleComponent = ({ text, tata }) => {
       <Kaka />
       <div>Toi muon test thu xem sao</div>
       <div>dong thu 2</div>
+      ------------------------------
     </div>
   )
 }
